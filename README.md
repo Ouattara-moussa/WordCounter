@@ -14,9 +14,7 @@ Programme qui compte le nombre total de mots dans un fichier texte.
 3. Exécuter : `java Main`
 
 ## Tests effectués
-- `fichier.txt` : 47 mots
-- `fichier2.txt` : 11 mots
-- `fichier3.txt` : 0 mots (fichier vide)
+- `fichier.txt` : 109 mots
 
 ## Auteur
 OUATTARA MOUSSA
